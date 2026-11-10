@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+.vercel/
+*.log
+scripts/import/
+.vercel
+tsconfig.tsbuildinfo
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/plugins/obsidian-git/data.json
+.obsidian/cee trezor/
+golibe help/
+lib/generated/search-index.json

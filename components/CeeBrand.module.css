@@ -1,0 +1,40 @@
+.brandBlock {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 3px;
+  line-height: 0;
+}
+
+.logoLink {
+  display: block;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  font-family: inherit;
+  text-decoration: none;
+  transition: opacity 120ms;
+}
+
+.logoLink:hover {
+  opacity: 0.85;
+}
+
+.siteLink {
+  font-size: 11px;
+  font-weight: 500;
+  color: #64748b;
+  text-decoration: none;
+  letter-spacing: 0.01em;
+  line-height: 1.2;
+}
+
+.siteLink:hover {
+  color: #e85e20;
+  text-decoration: underline;
+}
+
+.compact .siteLink {
+  font-size: 10px;
+}

@@ -1,0 +1,14 @@
+{
+  "markdown.preview.breaks": true,
+  "markdown.preview.scrollEditorWithPreview": true,
+  "markdown.preview.scrollPreviewWithEditor": true,
+  "markdown.preview.typographer": true,
+  "markdown.validate.enabled": true,
+  "pasteImage.path": "${currentFileDir}/_images",
+  "pasteImage.prefix": "",
+  "pasteImage.namePrefix": "img-",
+  "[markdown]": {
+    "editor.wordWrap": "on",
+    "editor.minimap.enabled": false
+  }
+}

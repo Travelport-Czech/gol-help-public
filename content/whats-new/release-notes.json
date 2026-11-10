@@ -1,0 +1,56 @@
+[
+  {
+    "version": "July 2026",
+    "items": [
+      {
+        "title": "Smarter destination autocomplete for faster search",
+        "detail": "When searching for flights, the system now automatically prioritizes the most relevant destinations, making search faster and more intuitive."
+      },
+      {
+        "title": "Stripe payments now at your disposal",
+        "detail": "Stripe is now available as a payment option for both travelers and agencies, expanding the ways customers can pay for a booking."
+      },
+      {
+        "title": "Automatic queueing for TripServices reservations",
+        "detail": "TripServices reservations are now automatically placed in the correct processing queue, reducing manual errors and speeding up bookings."
+      }
+    ]
+  },
+  {
+    "version": "June 2026",
+    "items": [
+      {
+        "title": "Passport selection now available at booking",
+        "detail": "Travelers can now choose which passport they're traveling with directly in the booking form, instead of it being fixed to their profile default."
+      },
+      {
+        "title": "Hotel search added to HTML package bookings",
+        "detail": "Hotel search is now available within HTML package bookings, so package offers can include a hotel search step."
+      },
+      {
+        "title": "Small personal item baggage now clearly labeled",
+        "detail": "Cabin baggage now clearly labels the small personal item allowance (e.g. a handbag or backpack under the seat), so travelers know exactly what they can bring on board for free."
+      },
+      {
+        "title": "Price calendar now shows two one-way fares",
+        "detail": "The price calendar can now display two separate one-way fares side by side, making it easier to combine the cheapest outbound and return dates for a round trip."
+      },
+      {
+        "title": "Currency now shown in approval emails",
+        "detail": "Approval emails now display the currency of the amount being approved, so approvers no longer need to open the reservation to check what currency is involved."
+      },
+      {
+        "title": "Booking note now shown in hotel approvals",
+        "detail": "Hotel approval emails now include the booking note directly, giving approvers immediate context without switching screens."
+      },
+      {
+        "title": "MIR reports now available via API",
+        "detail": "Agencies and corporate customers can now generate MIR (Management Information Reports) directly through the API, enabling automated reporting instead of manual exports."
+      },
+      {
+        "title": "Mobile app updated to version 3.7.0",
+        "detail": "The mobile app was updated to version 3.7.0 with bug fixes and security improvements."
+      }
+    ]
+  }
+]
